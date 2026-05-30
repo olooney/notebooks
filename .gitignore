@@ -1,3 +1,5 @@
+content/data/all_craps_variants.txt
+
 *.bundle.*
 lib/
 node_modules/
