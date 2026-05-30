@@ -1,0 +1,59 @@
+﻿filename,loc,description,rating,reason
+CrapsSymetry.ipynb,150,Exhaustive mathematical analysis of craps game variants and symmetry properties,9,Novel combinatorial game analysis with elegant use of Knuth partitioning
+Fibonacci.ipynb,400,Exhaustive analysis of Fibonacci implementations including matrix exponential and Cython,9,Masterful performance analysis with seven different algorithmic approaches
+Grifters Skeptics Marks.ipynb,180,Replicator dynamics game theory model with interactive simplex visualization,9,Novel game-theoretic model with sophisticated visualization
+Bradley-Terry-Luce+Preference+Modeling.ipynb,120,Pairwise preference modeling using regularized logistic regression with creator covariates,8,Novel application of Bradley-Terry-Luce model to superhero data
+CrapsVariants.ipynb,140,Game theory simulation of craps variants with fairness analysis,8,Thorough probabilistic analysis with simulation validation
+DecisionTreeFromScratch.ipynb,150,Complete decision tree classifier implementation from scratch using GINI splitting,8,Excellent from-scratch ML algorithm implementation with full diagnostics
+Hawks Doves Retaliators.ipynb,140,Evolutionary game theory simulation on population simplex,8,Excellent visualization of evolutionary strategy dynamics
+Inverse Elliptic.ipynb,120,Chebyshev polynomial approximation of elliptic integral inverse function,8,Advanced numerical analysis with performance optimization
+RabinKarp.ipynb,120,Rabin-Karp string search algorithm with word boundary detection in Cython,8,Efficient substring search with performance benchmarking
+Beatles.ipynb,150,Advanced image processing algorithm detecting and aligning text rows using OpenCV and agglomerative clustering,7,Novel algorithmic approach to text grid alignment
+classification_anomaly.ipynb,200,Interactive widget-based anomaly detection combining SVM classification with isolation scoring,7,Well-designed interactive visualization with sophisticated methodology
+Fake Math Equalities.ipynb,100,Generation and discovery of near-equal mathematical expressions,7,Clever algorithm for finding fake but close mathematical equalities
+Longitudinal.ipynb,150,Multi-month longitudinal analysis of student risk scores with data drift detection,7,Sophisticated time-series analysis with comparative metrics
+Primes.ipynb,150,Prime factorization using Pollard rho algorithm and Fermat number analysis,7,Advanced number theory implementation with interesting results
+RedBlackSocksOneHalf.ipynb,50,Pell equation solution for red-black sock probability problem,7,Elegant mathematical solution with recursive generation
+Snakes and Ladders.ipynb,100,Expected value calculation for Snakes and Ladders using Markov chains,7,Elegant game theory analysis with variant optimization
+BestWorldSplitTextJustification.ipynb,50,Text justification algorithm using dynamic programming with caching,6,Elegant solution to text formatting problem
+Euler.ipynb,100,Project Euler problem solutions including prime generation and factorization,6,Good algorithmic problem-solving with multiple approaches
+Explain.ipynb,80,LIME explainability analysis for student risk prediction models,6,Applied ML interpretability with real educational data
+Feature+Selection.ipynb,80,Comparison of feature selection methods using multiple scoring approaches,6,Comprehensive comparison of feature importance methods
+Gaussian Mixture 3d Plot.ipynb,100,Hyperparameter optimization using hyperopt with Gaussian process modeling,6,Well-executed Bayesian optimization demonstration
+Hyper.ipynb,100,Hyperparameter tuning analysis with LOWESS smoothing and 3D response surfaces,6,Thorough optimization analysis with good diagnostics
+NTP.ipynb,80,NTP protocol implementation with packet parsing and timestamp calculation,6,Technical networking implementation
+ScalarOptimization.ipynb,80,Comparison of scalar optimization methods with Brent's algorithm implementation,6,Thorough optimization technique analysis
+Sigmoid vs Exponential.ipynb,100,Interactive presentation generation comparing sigmoid and exponential fitting,6,Creative approach to function comparison with PowerPoint generation
+sum_equals_product_of_k_integers.ipynb,80,Finding integer sequences where sum equals product,6,Interesting combinatorial problem with multiple solutions
+Traveling Salesman.ipynb,80,Traveling salesman problem with nearest neighbor heuristic,6,Classic optimization problem implementation
+ttest_robustness.ipynb,60,Robustness analysis of t-test under distribution violations,6,Solid statistical methodology testing
+Word Distribution Comparison.ipynb,100,Kolmogorov-Smirnov test comparing word length distributions,6,Good statistical distribution comparison
+Bayes Beta.ipynb,50,Fitting Beta distribution parameters using grid search and scipy optimization,5,Solid statistical modeling work with visualization
+Boston Regression (1).ipynb,80,Multiple regression analysis with statistical diagnostics and ANOVA,5,Good exploratory data analysis demonstration
+Climate Change.ipynb,60,Time series analysis of climate data with FFT analysis and regression,5,Competent analysis of temperature trends
+DecisionBoundaries.ipynb,100,Comparison of decision boundaries for six classification algorithms on iris dataset,5,Standard sklearn visualization technique
+Extrema.ipynb,80,Finding extrema using calculus derivatives and numerical optimization,5,Standard optimization demonstration
+Faces.ipynb,70,Image manipulation with HSV color space transformations and interactive widgets,5,Creative color transformation techniques
+Max of k Normals.ipynb,60,Distribution analysis of maximum of k iid normal variables,5,Solid statistical analysis with simulations
+Python Match Operator.ipynb,80,Pattern matching examples using Python 3.10 match statement,5,Good coverage of new Python language feature
+Sudoku.ipynb,80,Sudoku solver implementation and validation,5,Straightforward backtracking solver
+Difference of Squares 2025.ipynb,20,Mathematical identity using rationalization and perfect square techniques,4,Clever algebra trick with minimal code
+Suicide.ipynb,40,Statistical analysis of time-dependent risk patterns,4,Sensitive topic requiring careful interpretation
+BMI 3D Surface Plot.ipynb,40,3D visualization of BMI surface with custom colormap,3,Nice visualization but straightforward math
+BMI.ipynb,40,BMI calculation and 3D surface visualization,3,Duplicate content with different features
+GoogleDriveTime.ipynb,30,Google Maps API wrapper for calculating driving times,3,Basic API integration example
+OptimizeBenchmarks.ipynb,30,Comparison of optimization methods for a quadratic function,3,Basic optimization tutorial
+Rabbits.ipynb,40,Exponential rabbit population growth simulation,3,Fun but simplistic biological model
+Sphere Ball Remez Pade.ipynb,40,3D sphere visualization with approximation analysis,3,Basic 3D plotting
+touch type patsy.ipynb,50,Statistical formula interface exploration,3,Package tutorial
+touch type sklearn.ipynb,50,Scikit-learn API exploration,3,Package tutorial
+Async Tests.ipynb,30,Basic tutorial on asyncio and async/await patterns,2,Simple example code with little depth
+biomodels.ipynb,30,Basic ML pipeline comparing logistic regression and random forest,2,Tutorial example without novel insights
+Cylinder3D.ipynb,30,3D scatter plot visualization of cylindrical data distribution,2,Basic visualization example
+DecisionBoundaries2.ipynb,100,Variant of decision boundary comparison with different feature pairs,2,Duplicate with minimal changes
+Inverse Elliptic2.ipynb,120,Duplicate implementation of elliptic integral inversion,2,Redundant copy of previous notebook
+IPython Notebook + Pylab Inline.ipynb,30,Tutorial on pylab inline plotting and numpy basics,2,Introductory reference material
+Mongo.ipynb,20,MongoDB basic CRUD operations and query examples,2,Simple database tutorial
+RapidAPI.ipynb,20,API integration wrapper for NumbersAPI service,2,Trivial API usage example
+XKCD Chart Examples.ipynb,30,XKCD style chart plotting examples,2,Simple visualization style demo
+Zalgo.ipynb,20,Unicode combining character text effects,2,Trivial text manipulation example
