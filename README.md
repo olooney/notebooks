@@ -2,7 +2,10 @@
 ### Oran Looney
 
 This repo uses [JupyterLite][JL] to publish some of my open source Jupyter
-notebooks to the GitHub Pages site https://olooney.github.io.
+notebooks to GitHub Pages:
+
+* https://olooney.github.io/notebooks 
+
 It was cloned from their [demo repo][DR] following their
 [recommended deployment guide.][RDG]
 
