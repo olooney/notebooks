@@ -7,6 +7,7 @@
 - Use Markdown cells sparingly. Add them mainly for LaTex equations that are necessary for understanding.
 - Keep Markdown commentary terse. Avoid long prose between code cells.
 - Put optional or fragile UI imports, especially `ipywidgets`, near the widget cell instead of in the first import cell.
+- Always include `%pip install -q ipywidgets` in the cell above the `ipywidgets` install.
 - Do not make widgets required for the rest of the notebook to run.
 - Keep a static, non-widget example before any interactive widget version.
 - Do not run notebook cells unless explicitly asked.
