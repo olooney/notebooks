@@ -1,5 +1,6 @@
 # AGENTS.md
 
+- Put all notebooks in `content/`.
 - Prefer Polars over pandas for tabular data unless an existing notebook already depends on pandas.
 - Keep notebook code readable: use descriptive variable names, not terse mathematical abbreviations.
 - Add short, one-line docstrings to every function, class, and method.
