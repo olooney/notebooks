@@ -1,4 +1,5 @@
 content/data/all_craps_variants.txt
+.vscode/
 
 *.bundle.*
 lib/
